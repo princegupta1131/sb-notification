@@ -84,7 +84,7 @@ export class AppModule { }
   - `(showMore)`: Event emitted when user clicks on "Show more"
   - `(showLess)`: Event emitted when user clicks on "Show less"
 
-### Versions
+### Versions 
 
 |   release branch  	| npm package version 	| Angular Version 	| Notes 	          |
 |:-----------------:	|:-------------------:	|:---------------:	|:---------------:
